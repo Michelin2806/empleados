@@ -1,0 +1,11 @@
+body{
+    color: rgb(252, 252, 252);
+    background-color: rgb(87, 102, 112);
+}
+h2{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.btn btn-primary{
+    text-align: center;
+}
